@@ -16,5 +16,8 @@ Serial No.	Column names	Description
 
 Part1: Consist of Exploratory Data Analysis of the dataset and analysing the univariate and multivariate analysis between different parameters in the dataset.
 
+Part2: A machine learning model to predict trip_fare using travel_distance and travel_time. Measure the accuracy of the model and use the model to predict trip_fare for a trip with travel_distance of 3.5 kms and travel_time of 15 minutes
+
+
 
 
