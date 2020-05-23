@@ -14,5 +14,7 @@ Serial No.	Column names	Description
 10	trip_fare	Trip fare calculated in Rupees
 
 
+Part1: Consist of Exploratory Data Analysis of the dataset and analysing the univariate and multivariate analysis between different parameters in the dataset.
+
 
 
