@@ -20,6 +20,10 @@ Part2: A machine learning model to predict trip_fare using travel_distance and t
 
 Part3: Used h3 geospatial module with basemap to visualize the coordinates of pickup location and drop location using pickup longitude, pickup latitude, drop location longitude and latitude.
 
+Want to know how h3 package work: https://medium.com/@krati_agarwal/h3-a-hexagonal-hierarchical-geospatial-indexing-system-developed-by-uber-technologies-eee3c5583875
+
+If want to check in more detail go to: https://github.com/uber/h3/blob/master/docs/overview/mainpage.md
+
 
 
 
